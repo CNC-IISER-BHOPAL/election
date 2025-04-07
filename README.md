@@ -14,11 +14,12 @@ This is a comprehensive web-based voting system designed for student council ele
    - Responsive design for all device sizes
    - Animated UI elements for better user experience
    - Form validation and error handling
-   - AJAX-based form submission
+   - AJAX with (Encryption Data)-based form submission
+   - 
 
 3. **Technical Stack**:
-   - Frontend: HTML5, CSS3, JavaScript (jQuery)
-   - Backend: PHP
+   - Frontend: HTML5, CSS3, JavaScript (jQuery,Ajax),
+   - Backend: PHP,
    - Styling: Bootstrap 5 with custom themes
    - Icons: Font Awesome
 
