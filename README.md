@@ -79,18 +79,6 @@ You can easily customize:
 - Layout by adjusting the Bootstrap grid classes
 - Animations by editing the CSS keyframes
 
-## License
-
-This code is provided as-is without an explicit license. For use in production, you should:
-
-1. Add your own license file
-2. Conduct a thorough security review
-3. Customize the system to your specific requirements
-
-## Screenshots
-
-(Would typically include screenshots of each page here in a real README)
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit pull requests for any improvements.
